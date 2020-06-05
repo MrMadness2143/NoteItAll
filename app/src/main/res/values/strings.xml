@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">NoteItAll</string>
+
+    <string-array name="types">
+        <item>Text</item>
+        <item>Image</item>
+        <item>File</item>
+        <item>App</item>
+    </string-array>
+</resources>
